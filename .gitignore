@@ -149,7 +149,6 @@ dmypy.json
 logs/
 .env
 .DS_Store
-checkpoints/
 lightning_logs/
 image.jpg
 combined_images/
